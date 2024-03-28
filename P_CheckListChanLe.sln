@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "P_CheckListChanLe", "P_CheckListChanLe.pyproj", "{FCCE2345-37D6-4058-97AB-F0F8AFEA73D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCE2345-37D6-4058-97AB-F0F8AFEA73D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCE2345-37D6-4058-97AB-F0F8AFEA73D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C1D5EFA-CB71-4F71-B16D-8AD5A1C75B64}
+	EndGlobalSection
+EndGlobal
